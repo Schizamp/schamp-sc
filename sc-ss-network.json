@@ -10,7 +10,7 @@ Parameters:
     Description: Security Notification SNS Topic Name.
   SecurityAccountId:
     Type: 'String'
-    Description: AWS Account Id of the Security account.
+    Description: AWS Account ID of the Security account.
   LogsRetentionInDays:
     Description: 'Specifies the number of days you want to retain notification forwarding log events in the Lambda log group.'
     Type: Number
