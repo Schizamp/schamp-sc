@@ -7,7 +7,7 @@ Parameters:
     Description: 'Prefix for the managed resources'
   SecurityTopicName:
     Type: String
-    Description: Security Notification SNS Topic Name.
+    Description: Security Notification SNS Topic Name
   SecurityAccountId:
     Type: 'String'
     Description: AWS Account ID of the Security account.
